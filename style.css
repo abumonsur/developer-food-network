@@ -5,7 +5,7 @@ h1{
     font-size: 50px;
 }
 h2{
-    font-size: 30px;
+    font-size: 20px;
 }
 .orange-color{
     color: orange;
@@ -38,3 +38,28 @@ h2{
     background-repeat: no-repeat;
     background-position: right;
 }
+.Recipi-pro-recipies{
+    background-color: purple;
+    padding: 5px;
+    font-size: 50px;
+
+}
+.Recipi-pro-recipies{
+    box-shadow: 10px 10px 40px gray;
+    width: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+
+    
+}
+.Recipi-pro-recipies{
+    box-shadow: 10px 10px 40px gray;
+    width: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+
+}
+footer p{
+    text-align: center;
+}
+
